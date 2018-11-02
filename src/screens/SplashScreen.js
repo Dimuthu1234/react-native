@@ -38,3 +38,6 @@ class SplashScreen extends Component{
 }
 
 export default SplashScreen;
+
+
+// doneee
