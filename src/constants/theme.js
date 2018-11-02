@@ -51,7 +51,7 @@ const theme = {
       base: 16,
       md: 18,
       lg: 20,
-      xl: 24,
+      xl: 32,
     },
     weight: {
       light: '200',
